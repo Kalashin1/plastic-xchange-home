@@ -12,38 +12,38 @@
         <p><i class="fa fa-phone-alt me-3" />+012 345 67890</p>
         <p><i class="fa fa-envelope me-3" />info@example.com</p>
         <div class="d-flex pt-2">
-          <a class="btn btn-outline-light btn-social" href=""
+          <a class="btn btn-outline-light btn-social" href="#!"
             ><i class="fab fa-twitter" /></a
           >
-          <a class="btn btn-outline-light btn-social" href=""
+          <a class="btn btn-outline-light btn-social" href="#!"
             ><i class="fab fa-facebook-f" /></a
           >
-          <a class="btn btn-outline-light btn-social" href=""
+          <a class="btn btn-outline-light btn-social" href="#!"
             ><i class="fab fa-youtube" /></a
           >
-          <a class="btn btn-outline-light btn-social" href=""
+          <a class="btn btn-outline-light btn-social" href="#!"
             ><i class="fab fa-instagram" /></a
           >
-          <a class="btn btn-outline-light btn-social" href=""
+          <a class="btn btn-outline-light btn-social" href="#!"
             ><i class="fab fa-linkedin-in" /></a
           >
         </div>
       </div>
       <div class="col-md-6 col-lg-3">
         <h5 class="text-white mb-4">Quick Link</h5>
-        <a class="btn btn-link" href="">About Us</a>
-        <a class="btn btn-link" href="">Contact Us</a>
-        <a class="btn btn-link" href="">Privacy Policy</a>
-        <a class="btn btn-link" href="">Terms & Condition</a>
-        <a class="btn btn-link" href="">Career</a>
+        <a class="btn btn-link" href="#!">About Us</a>
+        <a class="btn btn-link" href="#!">Contact Us</a>
+        <a class="btn btn-link" href="#!">Privacy Policy</a>
+        <a class="btn btn-link" href="#!">Terms & Condition</a>
+        <a class="btn btn-link" href="#!">Career</a>
       </div>
       <div class="col-md-6 col-lg-3">
         <h5 class="text-white mb-4">Popular Link</h5>
-        <a class="btn btn-link" href="">About Us</a>
-        <a class="btn btn-link" href="">Contact Us</a>
-        <a class="btn btn-link" href="">Privacy Policy</a>
-        <a class="btn btn-link" href="">Terms & Condition</a>
-        <a class="btn btn-link" href="">Career</a>
+        <a class="btn btn-link" href="#!">About Us</a>
+        <a class="btn btn-link" href="#!">Contact Us</a>
+        <a class="btn btn-link" href="#!">Privacy Policy</a>
+        <a class="btn btn-link" href="#!">Terms & Condition</a>
+        <a class="btn btn-link" href="#!">Career</a>
       </div>
       <div class="col-md-6 col-lg-3">
         <h5 class="text-white mb-4">Newsletter</h5>
@@ -71,23 +71,23 @@
     <div class="copyright">
       <div class="row">
         <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-          &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right
+          &copy; <a class="border-bottom" href="#!">Your Site Name</a>, All Right
           Reserved.
 
           <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
           Designed By
           <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
           <br />Distributed By:
-          <a class="border-bottom" href="https://themewagon.com" target="_blank"
+          <a class="border-bottom" rel="noreferrer" href="https://themewagon.com" target="_blank"
             >ThemeWagon</a
           >
         </div>
         <div class="col-md-6 text-center text-md-end">
           <div class="footer-menu">
-            <a href="">Home</a>
-            <a href="">Cookies</a>
-            <a href="">Help</a>
-            <a href="">FQAs</a>
+            <a href="#!">Home</a>
+            <a href="#!">Cookies</a>
+            <a href="#!">Help</a>
+            <a href="#!">FQAs</a>
           </div>
         </div>
       </div>

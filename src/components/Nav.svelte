@@ -19,7 +19,7 @@
         <a href="contact.html" class="nav-item nav-link">Contact</a>
       </div>
       <a
-        href=""
+        href="#!"
         class="btn btn-light rounded-pill text-primary py-2 px-4 ms-lg-5"
         >Register</a
       >
@@ -38,7 +38,7 @@
             Every word plastic bottle you save matters to the planet.
           </p>
           <a
-            href=""
+            href="#!"
             class="btn btn-outline-light rounded-pill border-2 py-3 px-5 animated slideInRight"
             >Learn More</a
           >
