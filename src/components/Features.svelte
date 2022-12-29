@@ -10,16 +10,19 @@
           Why People Choose Us? We Are Trusted & Award Wining Agency
         </h2>
         <p>
-          Clita nonumy sanctus nonumy et clita tempor, et sea amet ut et
-          sadipscing rebum amet takimata amet, sed accusam eos eos dolores
-          dolore et. Et ea ea dolor rebum invidunt clita eos. Sea accusam stet
-          stet ipsum, sit ipsum et ipsum kasd
+          We have a partnership with PHAAE Organization (NGO), This Campaign aims to create an awareness to address and reduce the
+          negative effect of plastic waste dumping in our environment which ends
+          up in our local water ways and eventually in oceans and seas. The
+          campaign also intends to show the economic benefits of engaging in the
+          recycling of plastic waste locally in our society. Finally the project
+          shows a positive correlation between the recycling of plastic products
+          and the reduction of carbon emissions into the air caused by the
+          production of new plastic products.
         </p>
         <p>
-          Et ea ea dolor rebum invidunt clita eos. Sea accusam stet stet ipsum,
-          sit ipsum et ipsum kasd
+          We believe that if the culture of plastic recycling is reinforced and adhered to by various social groups
         </p>
-        <a class="btn btn-primary rounded-pill py-3 px-5 mt-2" href="#!"
+        <a class="btn btn-primary rounded-pill py-3 px-5 mt-2" href="/about"
           >Read More</a
         >
       </div>
@@ -49,8 +52,7 @@
               <h6 class="mb-0">99% Success Rate</h6>
             </div>
             <span
-              >Magna sea eos sit dolor, ipsum amet ipsum lorem diam eos diam
-              dolor</span
+              >We have the most successful track record for plastic collection</span
             >
           </div>
           <div class="col-sm-6 wow fadeIn" data-wow-delay="0.3s">
@@ -63,8 +65,7 @@
               <h6 class="mb-0">Award Winning</h6>
             </div>
             <span
-              >Magna sea eos sit dolor, ipsum amet ipsum lorem diam eos diam
-              dolor</span
+              >Our services are world class and recognized by the World Health Organization (WHO)</span
             >
           </div>
           <div class="col-sm-6 wow fadeIn" data-wow-delay="0.4s">
@@ -77,8 +78,7 @@
               <h6 class="mb-0">100% Happy Client</h6>
             </div>
             <span
-              >Magna sea eos sit dolor, ipsum amet ipsum lorem diam eos diam
-              dolor</span
+              >Most of our clients are happy and satisfied to be dealing with us.</span
             >
           </div>
           <div class="col-sm-6 wow fadeIn" data-wow-delay="0.5s">
@@ -88,11 +88,10 @@
               >
                 <i class="fa fa-user-tie text-white" />
               </div>
-              <h6 class="mb-0">Professional Advisors</h6>
+              <h6 class="mb-0">Professional Agents</h6>
             </div>
             <span
-              >Magna sea eos sit dolor, ipsum amet ipsum lorem diam eos diam
-              dolor</span
+              >Our Agents are professional in dealing with clients and handling plastic waste</span
             >
           </div>
           <div class="col-sm-6 wow fadeIn" data-wow-delay="0.6s">
@@ -105,8 +104,7 @@
               <h6 class="mb-0">24/7 Customer Support</h6>
             </div>
             <span
-              >Magna sea eos sit dolor, ipsum amet ipsum lorem diam eos diam
-              dolor</span
+              >We have 24/7 customer support, you can reach us at any time.</span
             >
           </div>
         </div>

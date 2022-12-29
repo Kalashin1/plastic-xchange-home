@@ -9,7 +9,7 @@
       <div class="d-inline-block border rounded-pill text-primary px-4 mb-3">
         Our Services
       </div>
-      <h2 class="mb-5">We Provide Solutions On Your Business</h2>
+      <h2 class="mb-5">We Provide Solutions On Plastic Waste</h2>
     </div>
     <div class="row g-4">
       <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -23,10 +23,9 @@
             </a>
           </div>
           <div class="p-5">
-            <h5 class="mb-3">Business Research</h5>
+            <h5 class="mb-3">Plastic Recycling</h5>
             <span
-              >Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
-              sed diam stet diam sed stet lorem.</span
+              >We collect and recyle used plastic</span
             >
           </div>
         </div>
@@ -42,10 +41,9 @@
             </a>
           </div>
           <div class="p-5">
-            <h5 class="mb-3">Stretagic Planning</h5>
+            <h5 class="mb-3">Plastic Waste Purchase</h5>
             <span
-              >Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
-              sed diam stet diam sed stet lorem.</span
+              >You can sell your spent plastic to us, instead of trashing them carelessly.</span
             >
           </div>
         </div>
@@ -61,10 +59,9 @@
             </a>
           </div>
           <div class="p-5">
-            <h5 class="mb-3">Market Analysis</h5>
+            <h5 class="mb-3">Reduce Carbon Print</h5>
             <span
-              >Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
-              sed diam stet diam sed stet lorem.</span
+              >We help reduce the carbon print of the environment.</span
             >
           </div>
         </div>
@@ -80,10 +77,9 @@
             </a>
           </div>
           <div class="p-5">
-            <h5 class="mb-3">Financial Analaysis</h5>
+            <h5 class="mb-3">Environmental Sanitation</h5>
             <span
-              >Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
-              sed diam stet diam sed stet lorem.</span
+              >We provide environmental sanitation services by recycling used plastic.</span
             >
           </div>
         </div>
@@ -99,10 +95,9 @@
             </a>
           </div>
           <div class="p-5">
-            <h5 class="mb-3">legal Advisory</h5>
+            <h5 class="mb-3">Income Source</h5>
             <span
-              >Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
-              sed diam stet diam sed stet lorem.</span
+              >You can earn extra income by collecting plastic waste and selling them to us </span
             >
           </div>
         </div>
@@ -118,10 +113,9 @@
             </a>
           </div>
           <div class="p-5">
-            <h5 class="mb-3">Tax & Insurance</h5>
+            <h5 class="mb-3">Plastic Storage</h5>
             <span
-              >Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
-              sed diam stet diam sed stet lorem.</span
+              >We provide facilities for storing and containing plastic waste in the environment.</span
             >
           </div>
         </div>

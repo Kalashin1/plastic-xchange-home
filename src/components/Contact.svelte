@@ -13,13 +13,13 @@
     </div>
     <div class="row justify-content-center">
       <div class="col-lg-7 wow fadeInUp" data-wow-delay="0.3s">
-        <p class="text-center mb-4">
+        <!-- <p class="text-center mb-4">
           The contact form is currently inactive. Get a functional and working
           contact form with Ajax & PHP in a few minutes. Just copy and paste the
           files, add a little code and you're done. <a
             href="https://htmlcodex.com/contact-form">Download Now</a
           >.
-        </p>
+        </p> -->
         <form>
           <div class="row g-3">
             <div class="col-md-6">
