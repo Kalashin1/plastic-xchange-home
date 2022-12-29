@@ -43,7 +43,7 @@
           >
         </div>
         <div class="col-lg-6 text-center text-lg-start">
-          <img class="img-fluid animated zoomIn" src="img/hero.png" alt="" />
+          <img class="img-fluid animated zoomIn" src="img/undraw_throw_away_re_x60k.svg" alt="" />
         </div>
       </div>
     </div>
