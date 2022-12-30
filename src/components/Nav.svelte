@@ -18,7 +18,7 @@
         <a href="/contact" class="nav-item nav-link">Contact</a>
       </div>
       <a
-        href="#!"
+        href="https://xchange-ui.firebaseapp.com/"
         class="btn btn-light rounded-pill text-primary py-2 px-4 ms-lg-5"
         >Register</a
       >
@@ -37,9 +37,10 @@
             Every word plastic bottle you save matters to the planet.
           </p>
           <a
-            href="#!"
+            href="/app/plastic-exchange.apk"
+            download
             class="btn btn-outline-light rounded-pill border-2 py-3 px-5 animated slideInRight"
-            >Learn More</a
+            >Download Android App</a
           >
         </div>
         <div class="col-lg-6 text-center text-lg-start">

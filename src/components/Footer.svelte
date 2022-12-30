@@ -6,7 +6,7 @@
 >
   <div class="container py-5">
     <div class="row g-5">
-      <div class="col-md-6 col-lg-4">
+      <!-- <div class="col-md-6 col-lg-4">
         <h5 class="text-white mb-4">Get In Touch</h5>
         <p><i class="fa fa-map-marker-alt me-3" />123 Street, New York, USA</p>
         <p><i class="fa fa-phone-alt me-3" />+012 345 67890</p>
@@ -28,22 +28,20 @@
             ><i class="fab fa-linkedin-in" /></a
           >
         </div>
-      </div>
+      </div> -->
       <div class="col-md-6 col-lg-4">
         <h5 class="text-white mb-4">Quick Link</h5>
         <a class="btn btn-link" href="/about">About Us</a>
         <a class="btn btn-link" href="/contact">Contact Us</a>
-        <a class="btn btn-link" href="/">Download App</a>
-        <a class="btn btn-link" href="#!">Terms & Condition</a>
-        <a class="btn btn-link" href="#!">Privacy Policy</a>
+        <a class="btn btn-link" download href="/app/plastic-exchange.apk">Download App</a>
+        <a class="btn btn-link" href="#!">Web App</a>
       </div>
       <div class="col-md-6 col-lg-4">
         <h5 class="text-white mb-4">Popular Link</h5>
         <a class="btn btn-link" href="/about">About Us</a>
         <a class="btn btn-link" href="/contact">Contact Us</a>
-        <a class="btn btn-link" href="#!">Privacy Policy</a>
-        <a class="btn btn-link" href="#!">Terms & Condition</a>
-        <a class="btn btn-link" href="/">Download App</a>
+        <a class="btn btn-link" href="https://xchange-ui.firebaseapp.com/">Web App</a>
+        <a class="btn btn-link" download href="/app/plastic-exchange.apk">Download App</a>
       </div>
       <!-- <div class="col-md-6 col-lg-3">
         <h5 class="text-white mb-4">Newsletter</h5>
@@ -85,9 +83,9 @@
         <div class="col-md-6 text-center text-md-end">
           <div class="footer-menu">
             <a href="/">Home</a>
-            <a href="#!">Cookies</a>
-            <a href="#!">Help</a>
-            <a href="#!">FQAs</a>
+            <a href="https://xchange-ui.firebaseapp.com/">Web App</a>
+            <a download href="/app/plastic-exchange.apk">Android App</a>
+            <a href="/about">About</a>
           </div>
         </div>
       </div>

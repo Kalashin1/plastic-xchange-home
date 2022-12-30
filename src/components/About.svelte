@@ -68,7 +68,7 @@
             </div>
           </div>
         </div>
-        <a class="btn btn-primary rounded-pill py-3 px-5 mt-2" href="#!"
+        <a class="btn btn-primary rounded-pill py-3 px-5 mt-2" href="/about"
           >Read More</a
         >
       </div>
