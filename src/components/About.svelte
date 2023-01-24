@@ -14,33 +14,7 @@
           Enterprise in partnership with PHAAE Organization (NGO)
         </h2>
         <p class="mb-4">
-          This Campaign aims to create an awareness to address and reduce the
-          negative effect of plastic waste dumping in our environment which ends
-          up in our local water ways and eventually in oceans and seas. The
-          campaign also intends to show the economic benefits of engaging in the
-          recycling of plastic waste locally in our society. Finally the project
-          shows a positive correlation between the recycling of plastic products
-          and the reduction of carbon emissions into the air caused by the
-          production of new plastic products. Our aim is to create and empower
-          plastic exchange brand ambassadors in schools, residential estates,
-          places of worship, restaurants and eateries, office environment, at
-          events or occasions to support in spreading the awareness of our
-          project in their areas of influence while also assisting in the
-          overall effort to reduce the menace of indiscriminate dumping of
-          plastic waste. Through carefully coordinated enlightenment workshops
-          and campaigns in the above mentioned social environments, Plastic
-          Exchange aims to promote a reorientation of how waste is disposed of,
-          especially plastic waste and its long term negative effect on our
-          immediate and general environment. We also want to use this project to
-          create some form of social and/or economic empowerment for our various
-          brand ambassadors by providing incentives to them, upon their
-          achievement of agreed measurable targets and milestones in the course
-          of this project. We believe that if the culture of plastic recycling
-          is reinforced and adhered to by various social groups, there would be
-          a systematic reduction in the production of new plastic materials by
-          manufacturers who rely on fossil fuels and hydrocarbon raw materials
-          for its production; thereby promoting low carbon growth and pollution
-          in our water ways.
+          This Campaign aims to create an awareness to address and reduce the negative effect of plastic waste dumping in our environment which ends up in our local water ways and eventually in oceans and seas. The campaign also intends to show the economic benefits of engaging in the recycling of plastic waste locally in our society. Finally the project shows a positive correlation between the recycling of plastic products and the reduction of carbon emissions into the air caused by the production of new plastic products. Our aim is to create and empower plastic exchange brand ambassadors in schools, residential estates, places of worship, restaurants, eateries, office environment and  events. To support in spreading the awareness of our project, people should  show responsibility I. areas of influence, while also assisting in the overall effort to reduce the menace of indiscriminate dumping of plastic waste. Through carefully coordinated enlightenment workshops and campaigns in the above mentioned social environments, Plastic Exchange aims to promote a reorientation of how waste is disposed off, especially plastic waste and its long term negative effect on our immediate and larger environment. We also want to use this project to create some form of social and economic empowerment for our youths,  making them  brand ambassadors by providing incentives to them.  Upon their achievement of agreed measurable targets and milestones in the course of this project. We believe that if the culture of plastic recycling is reinforced and adhered to by various social groups, there would be a systematic reduction in the production of new plastic materials by manufacturers who rely on fossil fuels and hydrocarbon raw materials for its production; thereby promoting low carbon growth and pollution in our water ways.
         </p>
         <div class="row g-3 mb-4">
           <div class="col-12 d-flex">
